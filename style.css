@@ -1,0 +1,42 @@
+
+
+.box {
+    background-color: black;
+    width: 550px ;
+    height: 900px ;
+    border-radius: 30px ;
+    margin: auto;
+    background-image: url('https://amiel.club/uploads/posts/2022-10/1665085219_1-amiel-club-p-mebel-na-belom-fone-oboi-1.jpg');
+    background-size: cover;
+    background-position: right;
+    
+}
+.box1{
+    padding: 25px 200px ;
+    margin-top: 500px ;
+    background-image: url('https://lokkart.ru/img/home-catalog/shponirovannye-plity.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    border: 3px solid gold;
+    border-radius: 40px ;
+    
+}
+h1{ 
+   position: relative;
+   top: 70px ;
+    color: white;
+  
+} 
+
+
+.box2{
+    margin-top:30px ;
+    padding: 25px 175px ;
+    color: black;
+    background-image: url('https://i.pinimg.com/originals/47/69/36/4769368b1a6ef4ca62c63df67b886607.jpg');
+    background-size: cover;
+    background-position: left;
+    border: 3px solid gold;
+    border-radius: 40px ;
+}
